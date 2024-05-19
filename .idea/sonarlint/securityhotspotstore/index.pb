@@ -10,8 +10,6 @@ Q.idea/sonarlint/securityhotspotstore/9/2/924f089edb4af5ee45c8a9d1129cd28e2b3681
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
-A
-Basic Project.iml,3\9\392a279f376907b0bdaa928fe54d4f7c5afdeda7
 `
 0src/Project_01_InvestmentEarnings/StockGain.java,6\6\66964af5e4fd2650086270368ff4d09a8f689e44
 C
@@ -54,3 +52,7 @@ G.idea/sonarlint/issuestore/f/b/fb51a60495a01ca6f452eabc19a8af7300cb47c4,b\6\b6
 Q.idea/sonarlint/securityhotspotstore/8/a/8a1108b6486e7c7be6a26351f1fc806bb5485e5c,b\7\b7dc078b7729f9bca2108c9f66d7fddf7f7e4435
 Å
 Q.idea/sonarlint/securityhotspotstore/8/b/8b2d7d491fe6a35ec16c01d095cbbbaca4e30303,b\a\ba481b1f208c0c04cd42f76531c74039f41c3ee1
+Y
+)src/String_codes/Remove_White_Spaces.java,e\e\ee78bf38aa94cdd96b169822a76b1856bd839401
+a
+1src/String_codes/Remove_Duplicate_Characters.java,d\d\dddb7f2c41360c8070775361485aac60dd2392eb
