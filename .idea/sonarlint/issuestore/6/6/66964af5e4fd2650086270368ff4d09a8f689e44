@@ -1,0 +1,17 @@
+
+
+java:S1192"KDefine a constant instead of duplicating this literal "After day " 3 times.(õşö¹8˜×“ø1J$72b3057a-9899-4ddd-babb-d29ebbdff999
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(æÕ¹ä8š×“ø1J$3c8dfa23-6588-46d1-acb7-754cb78d3126
+z
+java:S1854""7Remove this useless assignment to local variable "day".(¥§ıË8¥×“ø1J$f42ed666-c102-43b2-b2b1-ed50dbb8367d
+m	java:S106	"+Replace this use of System.out by a logger.(‹•8§×“ø1J$2bc93a09-c822-4783-a77e-dc046cb86939
+m	java:S106"+Replace this use of System.out by a logger.(¥»·Á8§×“ø1J$0ab24a67-83bc-46e5-b46f-3a2eba8041b1
+r	java:S106"+Replace this use of System.out by a logger.(¡Äöºşÿÿÿÿ8§×“ø1J$4678b4d3-e53a-4d72-a9bc-adb3be555212
+m	java:S106"+Replace this use of System.out by a logger.(æèã8§×“ø1J$fef155fc-74c1-4ea8-b3dd-cce6742a93a2
+m	java:S106"+Replace this use of System.out by a logger.(÷¦Ëı8¨×“ø1J$13c4821a-fa97-4db0-bec5-e4a20df18b41
+m	java:S106"+Replace this use of System.out by a logger.(õşö¹8¨×“ø1J$203b01f8-ea5c-4377-8424-f9a86dfbf3ae
+m	java:S106"+Replace this use of System.out by a logger.(ô†òÀ8¨×“ø1J$c67f741e-c373-4dbe-a167-947ceef65fe6
+r	java:S106"+Replace this use of System.out by a logger.(œñ¬Éüÿÿÿÿ8¨×“ø1J$b5e6df91-f9fd-4ff2-bc2d-340ed4038129
+m	java:S106"+Replace this use of System.out by a logger.(¥àÏÏ8¨×“ø1J$4c5c4c91-ac00-4d01-9a67-27335f7cdb39
+m	java:S106 "+Replace this use of System.out by a logger.(…Ÿ„8¨×“ø1J$e887d076-2799-4f05-8c09-3e765b74b813
+r	java:S106!"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8¨×“ø1J$48193f5c-028f-4a8a-8a89-9e952a5273c2
