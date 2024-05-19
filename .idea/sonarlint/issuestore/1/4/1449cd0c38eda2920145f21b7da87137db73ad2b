@@ -1,0 +1,15 @@
+
+Ž
+java:S1192"FDefine a constant instead of duplicating this literal "Hello" 3 times.(˜‡™äøÿÿÿÿ8êïž…ù1J$dabeadda-7d9b-4ecc-9882-3de5a1a55797
+_
+java:S1643"Use a StringBuilder instead.(°þæµ8êïž…ù1J$447fb413-d761-4bc7-8c09-5eddf1794fbe
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(·Ë‹ºøÿÿÿÿ8¼åš…ù1J$9dda4d55-ccc4-4205-b835-2dc6e668c9d9
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶éº8¼åš…ù1J$c77831c9-665d-4a69-9404-6f74de7f10ee
+§
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(˜‡™äøÿÿÿÿ8Äåš…ù1J$844bed16-85e2-454c-be22-2d71123b5ebd
+m	java:S106
+"+Replace this use of System.out by a logger.(÷±“‰8Çåš…ù1J$b175bccd-5608-4ba0-b6cf-3768dcf4b42b
+m	java:S106"+Replace this use of System.out by a logger.(¹¬˜Œ8Çåš…ù1J$6f00626c-7d92-4fc3-81cd-405dd1cb3323
+c
+java:S2129" Remove this "String" constructor(°‹ÃÇ8ùïž…ù1J$d32e4120-e12c-4520-a95f-020498186f11
+m	java:S106"+Replace this use of System.out by a logger.(ì‘ò©8ùïž…ù1J$525ab92d-78e0-495a-ab22-822e009c68b6

@@ -1,0 +1,13 @@
+
+d
+java:S1643"Use a StringBuilder instead.(¾¾¾Öùÿÿÿÿ8·¯­†ù1J$5cde9a76-cbb8-48c0-bb26-be290959ced7
+d
+java:S1643"Use a StringBuilder instead.(¢ºãûÿÿÿÿ8·¯­†ù1J$2a4050af-002e-4bec-b496-4bf129b7a56e
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(‰ğÎ8¸¯­†ù1J$399fc0c7-b7a3-47f7-90d2-e7fb3bcf5204
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶éº8¹¯­†ù1J$b9d6b01e-9c7e-4a0b-9f39-780e103c5727
+h
+java:S1659
+" Declare "s3" on a separate line.(Ôİÿ–ıÿÿÿÿ8è¯­†ù1J$7354c5cd-4421-4c82-80ca-14a21ee42a3a
+l	java:S106"+Replace this use of System.out by a logger.(ÏıÜU8é¯­†ù1J$08cc3fae-abcb-4003-97ef-299d0b0c5aa0
+r	java:S106"+Replace this use of System.out by a logger.(õ½ÓŞùÿÿÿÿ8ë¯­†ù1J$8875840d-b74c-4257-b796-1be87e21d683
+m	java:S106"+Replace this use of System.out by a logger.(¥œËŸ8ì¯­†ù1J$dad94ba0-2163-4380-882c-49c3f49e5d68
