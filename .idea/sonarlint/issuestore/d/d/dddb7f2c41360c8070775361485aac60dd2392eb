@@ -1,10 +1,10 @@
 
-”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä‡÷¤úÿÿÿÿ8€ı’ù1J$fa6b2ea7-77bb-4169-9b95-91d9bc1e59e2
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶éº8€ı’ù1J$74e4ede5-023b-4efb-a3fe-3e1ffeaa0a94
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ä‡÷¤úÿÿÿÿ8€ı’ù1J$515b5818-83ae-4b60-99af-3f2c7b0d7bb4
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶éº8€ı’ù1J$6d779bd0-76c0-4715-a262-7da4a19d87d4
 •
-java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8¾ı’ù1J$889d481a-ad23-4807-a988-94bef658ae47
-r	java:S106"+Replace this use of System.out by a logger.(µ™âàøÿÿÿÿ8Àı’ù1J$c6f3d6fb-0feb-43a8-9957-c415c3f18d1c
-r	java:S106!"+Replace this use of System.out by a logger.(É‰á¯ûÿÿÿÿ8Àı’ù1J$f15f146c-1991-4dbe-838a-bb8a615353c5
-r	java:S106-"+Replace this use of System.out by a logger.(¸êøÄúÿÿÿÿ8Áı’ù1J$cff4c008-7e99-4453-a497-f5b82c74a441
-m	java:S106?"+Replace this use of System.out by a logger.(äİËü8Áı’ù1J$d98e314b-3646-46a8-b2e6-cbefa069ea0a
-r	java:S106L"+Replace this use of System.out by a logger.(íÜıŒşÿÿÿÿ8Âı’ù1J$9e2c4898-729a-460c-a514-1cb54e318049
+java:S3776"RRefactor this method to reduce its Cognitive Complexity from 22 to the 15 allowed.(Çµí‘8¾ı’ù1J$34c1174d-8870-4afb-b6af-9f42c4c2e1c4
+r	java:S106"+Replace this use of System.out by a logger.(µ™âàøÿÿÿÿ8Àı’ù1J$7cb25d6b-4c32-40f3-b02a-323235cc3193
+r	java:S106!"+Replace this use of System.out by a logger.(É‰á¯ûÿÿÿÿ8Àı’ù1J$096a2461-8f5b-4555-b3b0-88bd19f7a276
+r	java:S106-"+Replace this use of System.out by a logger.(¸êøÄúÿÿÿÿ8Áı’ù1J$c614768d-27b5-4ef0-80a0-73523bc769b1
+m	java:S106?"+Replace this use of System.out by a logger.(äİËü8Áı’ù1J$408e9c19-9c15-4add-b445-849721e85a31
+r	java:S106L"+Replace this use of System.out by a logger.(íÜıŒşÿÿÿÿ8Âı’ù1J$30905a81-d5b8-4fda-8f61-01c0e349bb31

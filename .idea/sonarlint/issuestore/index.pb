@@ -204,3 +204,5 @@ w
 G.idea/sonarlint/issuestore/1/a/1ade2ada912e03ae7b0984303b2ecd4b88bededd,9\d\9d39c0df4120e8176ce55656aff128fea2024ce6
 w
 G.idea/sonarlint/issuestore/1/0/107b3e2134f685050ec7255f3fad5f5955d9ddbc,6\7\67db137bfe1958621e4ff87fd7bba46aeec20d62
+e
+5src/String_codes/ReplaceCharacter_WithOccurrence.java,3\a\3ad3ea57e45b3d59f50cea150ed11bdd48cca114

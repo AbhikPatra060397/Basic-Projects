@@ -1,10 +1,10 @@
 
-	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’ÃÍ…8ª¶ª”ù1J$f4b23939-8a67-4cc4-90b1-b8665860c47b
-œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶éº8«¶ª”ù1J$341ecb19-2741-4edc-854e-338bd62e5d57
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’ÃÍ…8ª¶ª”ù1J$87eab92d-972f-4e30-9371-466c8f1a8bb7
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(²¶éº8«¶ª”ù1J$e69c502b-a9a4-45a4-aff2-24731b4eeee1
 ~
-java:S1854"6Remove this useless assignment to local variable "sb".(€ê±Õúÿÿÿÿ8¬¶ª”ù1J$17a5568f-44ea-4c6d-8de9-a2ef8df926a7
+java:S1854"6Remove this useless assignment to local variable "sb".(€ê±Õúÿÿÿÿ8¬¶ª”ù1J$7005d1a7-a7f1-46be-844e-f279011c2a09
 o
-java:S1481"'Remove this unused "sb" local variable.(€ê±Õúÿÿÿÿ8®¶ª”ù1J$013ed27e-89aa-46a0-bde2-40cfe91bb33d
-r	java:S106"+Replace this use of System.out by a logger.(®ßÕøüÿÿÿÿ8¯¶ª”ù1J$dbf720b1-759a-4436-b12e-e46917b2237f
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(÷²óüùÿÿÿÿ8¯¶ª”ù1J$2b964f79-4689-49c6-8aa7-3156dc275be4
-l	java:S106"+Replace this use of System.out by a logger.(€ó’8”İ®”ù1J$380b467b-1aed-4216-b437-3221abad33ae
+java:S1481"'Remove this unused "sb" local variable.(€ê±Õúÿÿÿÿ8®¶ª”ù1J$666c3508-9299-4f2d-bc16-37e3f31e184d
+r	java:S106"+Replace this use of System.out by a logger.(®ßÕøüÿÿÿÿ8¯¶ª”ù1J$72290ff1-eb2b-4a89-bbba-9f65d144cd3d
+ƒ	java:S125"<This block of commented-out lines of code should be removed.(÷²óüùÿÿÿÿ8¯¶ª”ù1J$b6fc36a3-0838-46fa-ab1a-519adf719191
+l	java:S106"+Replace this use of System.out by a logger.(€ó’8”İ®”ù1J$8621c344-ccca-4e47-ab7d-8da4e2b0169f
